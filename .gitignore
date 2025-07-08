@@ -1,0 +1,31 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# VS Code settings
+.vscode/
+
+# Jupyter Notebook checkpoints (if used)
+.ipynb_checkpoints/
+
+# Environment variables / secrets
+.env
+*.env
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Python packaging artifacts
+*.egg-info/
+dist/
+build/
