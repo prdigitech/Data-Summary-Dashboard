@@ -40,4 +40,16 @@ if uploaded_file is not None:
 else:
     st.write("Please upload a CSV file to get started.....")
 
+st.markdown(
+    """
+    <hr style="margin-top: 50px; margin-bottom: 10px; border-color: #444;">
+    <div style="text-align: center; font-size: 13px; color: #bbb;">
+        Created by <b>Pratik Ramdasi</b> · 
+        <a href="https://github.com/prdigitech" target="_blank" style="color: #bbb; text-decoration: none;">
+            GitHub
+        </a>
+    </div>
+    """,
+    unsafe_allow_html=True
+)
 
