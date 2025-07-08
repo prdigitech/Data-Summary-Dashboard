@@ -77,12 +77,6 @@ Data-Summary-Dashboard/
 
 ---
 
-## ✨ Screenshot
-
-> *(Optional: Add a screenshot of the dashboard in action here)*
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
